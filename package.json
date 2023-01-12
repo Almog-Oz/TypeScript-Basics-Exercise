@@ -1,0 +1,19 @@
+{
+  "name": "typescriptbasicspart1",
+  "version": "1.0.0",
+  "description": "This is a solution project for type script basics exercise part1.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build" : "tsc",
+    "start" : "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Almog-Oz/TypeScript-Basics-Exercise.git"
+  },
+  "author": "Almog Oz",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}
